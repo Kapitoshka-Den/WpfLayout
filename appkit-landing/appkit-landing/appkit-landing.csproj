@@ -1,0 +1,102 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>appkit_landing</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="3_85300.ico" />
+    <None Remove="Angular.PNG" />
+    <None Remove="Boost.PNG" />
+    <None Remove="CSS.PNG" />
+    <None Remove="Down.PNG" />
+    <None Remove="Face.PNG" />
+    <None Remove="favicon.ico" />
+    <None Remove="feature-8.png" />
+    <None Remove="figure-1.png" />
+    <None Remove="figure-2.png" />
+    <None Remove="figure-3.png" />
+    <None Remove="Git.PNG" />
+    <None Remove="hero-1.jpg" />
+    <None Remove="HTMl.PNG" />
+    <None Remove="imac.png" />
+    <None Remove="jQuery.PNG" />
+    <None Remove="Less.PNG" />
+    <None Remove="logo-icon.jpg" />
+    <None Remove="logo-icon.svg" />
+    <None Remove="logo-icon.xml" />
+    <None Remove="map.png" />
+    <None Remove="map.svg" />
+    <None Remove="profile-1.png" />
+    <None Remove="profile-2.png" />
+    <None Remove="profile-3.png" />
+    <None Remove="profile-4.png" />
+    <None Remove="team-1.png" />
+    <None Remove="team-2.png" />
+    <None Remove="Twit.PNG" />
+    <None Remove="кружок.PNG" />
+    <None Remove="Снимок.PNG" />
+    <None Remove="Снимок1.PNG" />
+    <None Remove="Снимок12.PNG" />
+    <None Remove="Снимок123.PNG" />
+    <None Remove="Снимок2.PNG" />
+    <None Remove="Снимок3.PNG" />
+    <None Remove="Снимок4.PNG" />
+    <None Remove="Снимок5.PNG" />
+    <None Remove="Снимок6.PNG" />
+    <None Remove="Снимок7.PNG" />
+    <None Remove="Снимок8.PNG" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="3_85300.ico" />
+    <Resource Include="favicon.ico" />
+    <Resource Include="hero-1.jpg" />
+    <Resource Include="imac.png" />
+    <Resource Include="Image\3_85300.ico" />
+    <Resource Include="Image\Angular.PNG" />
+    <Resource Include="Image\Boost.PNG" />
+    <Resource Include="Image\CSS.PNG" />
+    <Resource Include="Image\Down.PNG" />
+    <Resource Include="Image\Face.PNG" />
+    <Resource Include="Image\favicon.ico" />
+    <Resource Include="Image\feature-8.png" />
+    <Resource Include="Image\figure-1.png" />
+    <Resource Include="Image\figure-2.png" />
+    <Resource Include="Image\figure-3.png" />
+    <Resource Include="Image\Git.PNG" />
+    <Resource Include="Image\hero-1.jpg" />
+    <Resource Include="Image\HTMl.PNG" />
+    <Resource Include="Image\imac.png" />
+    <Resource Include="Image\jQuery.PNG" />
+    <Resource Include="Image\Less.PNG" />
+    <Resource Include="Image\logo-icon.jpg" />
+    <Resource Include="Image\logo-icon.svg" />
+    <Resource Include="Image\logo-icon.xml" />
+    <Resource Include="Image\map.png" />
+    <Resource Include="Image\map.svg" />
+    <Resource Include="Image\profile-1.png" />
+    <Resource Include="Image\profile-2.png" />
+    <Resource Include="Image\profile-3.png" />
+    <Resource Include="Image\profile-4.png" />
+    <Resource Include="Image\team-1.png" />
+    <Resource Include="Image\team-2.png" />
+    <Resource Include="Image\Twit.PNG" />
+    <Resource Include="Image\кружок.PNG" />
+    <Resource Include="Image\Снимок.PNG" />
+    <Resource Include="Image\Снимок1.PNG" />
+    <Resource Include="Image\Снимок12.PNG" />
+    <Resource Include="Image\Снимок123.PNG" />
+    <Resource Include="Image\Снимок2.PNG" />
+    <Resource Include="Image\Снимок3.PNG" />
+    <Resource Include="Image\Снимок4.PNG" />
+    <Resource Include="Image\Снимок5.PNG" />
+    <Resource Include="Image\Снимок6.PNG" />
+    <Resource Include="Image\Снимок7.PNG" />
+    <Resource Include="Image\Снимок8.PNG" />
+  </ItemGroup>
+
+</Project>
